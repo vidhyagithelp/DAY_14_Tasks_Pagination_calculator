@@ -1,0 +1,14 @@
+#mainFlexContainer{
+    display:flex;
+    white-space:"nowrap" ;
+    overflow: hidden;
+    text-overflow: clip; 
+  
+
+}
+
+#mainFlexContainer *{
+    padding: 10px;
+    border:1px solid;
+
+}
